@@ -14,6 +14,6 @@ provider "aws" {
 }
 
 resource "aws_iam_user" "my-user" {
-  name = "quadri-user"
+  name = "abdul-user"
   path = "/system/"
 }
